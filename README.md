@@ -2,7 +2,7 @@
 
 ## Context
 
-This is the final project I produced for my .NET applications class.  We were given the choice to choose what we wanted this final project to be.  I thought it would be useful to learn more about MVC implementation and created a scenario in which I could do such a project.  My plan was to use the MVC to display information about locals laws concerning crime.  The usage of the project is meant to be strictly informative in regards to local law and devoid of commentary.  The project focuses only on one specific set of laws (Title 45) but is set up to be able to add other titles in the future.  
+This is the final project I produced for my .NET applications class.  We were given the choice to choose what we wanted this final project to be.  I thought it would be useful to learn more about MVC implementation and created a scenario in which I could do such a project.  My plan was to use the MVC to display information about locals laws concerning crime.  The usage of the project is meant to be strictly informative in regards to local law and devoid of commentary.  The project focuses only on one specific set of laws (Title 45) of the Montana Code Annotated (MCA) but is set up to be able to add other titles in the future.  
 
 ## Action
 
